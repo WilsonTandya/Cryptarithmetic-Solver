@@ -13,10 +13,11 @@ Memiliki Python3
 * Membuka dan menjalankan file main.py pada folder src
 * Saat program sudah berjalan, masukan nama file yang mengandung cryptarithmetic (contoh:input1.txt)
 
-*File soal disimpan dalam .txt pada folder test
+
+*File soal disimpan dalam .txt pada folder test <br>
 *Folder doc berisi laporan tugas kecil ini
 
-## Author / identitas pembuat:
+## Author
 ### Nama  : Wilson Tandya
 ### NIM   : 13519209
 ### Kelas : K-04
